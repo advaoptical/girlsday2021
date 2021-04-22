@@ -1,3 +1,2 @@
-# GirlsDay2021
-
-ADVA Girls' Day 2021
+![](https://www.adva.com/-/media/adva-main-site/logo)
+> Girls' Day 2021
